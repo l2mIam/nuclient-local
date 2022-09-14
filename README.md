@@ -1,0 +1,1 @@
+# nucampsiteClient-local
